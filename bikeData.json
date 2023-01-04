@@ -1,52 +1,52 @@
 [
-    {
-        "name": "Honda Winner 150",
-        "r": 57.3,
-        "h": 57.8,
-        "option" :[
-            {
-                "name": "Winner 65zz",
-                "r": 65
-            },
-            {
-                "name": "Winner 62zz",
-                "r": 62
-            }
-        ]
-    },
-    {
-        "name": "Yamaha Exciter 150",
-        "r": 57,
-        "h": 58.7
-    },
-    {
-        "name": "Yamaha Exciter 155",
-        "r": 58,
-        "h": 58.7
-    },
-    {
-        "name": "Suzuki Raider 150",
-        "r": 62,
-        "h": 48.8
-    },
-    {
-        "name": "Honda Cb300r",
-        "r": 76,
-        "h": 63
-    },
-    {
-        "name": "Aprilia SR GT 200",
-        "r": 61.5,
-        "h": 58.7
-    },
-    {
-        "name": "honda future 125 (2018)",
-        "r": 52.4,
-        "h": 57.9
-    },
-    {
-        "name": "Yamaha JUPITER Fi",
-        "r": 50,
-        "h": 57.9
-    }
+   {
+      "name":"Honda Winner 150",
+      "r":57.3,
+      "h":57.8,
+      "option":[
+         {
+            "name":"Winner 65zz",
+            "r":65
+         },
+         {
+            "name":"Winner 62zz",
+            "r":62
+         }
+      ]
+   },
+   {
+      "name":"Yamaha Exciter 150",
+      "r":57,
+      "h":58.7
+   },
+   {
+      "name":"Yamaha Exciter 155",
+      "r":58,
+      "h":58.7
+   },
+   {
+      "name":"Suzuki Raider 150",
+      "r":62,
+      "h":48.8
+   },
+   {
+      "name":"Honda Cb300r",
+      "r":76,
+      "h":63
+   },
+   {
+      "name":"Aprilia SR GT 200",
+      "r":61.5,
+      "h":58.7
+   },
+   {
+      "name":"honda future 125 (2018)",
+      "r":52.4,
+      "h":57.9
+   },
+   {
+      "name":"Yamaha JUPITER Fi",
+      "r":50,
+      "h":57.9
+   }
 ]
